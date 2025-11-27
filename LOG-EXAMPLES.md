@@ -4,7 +4,7 @@
 
 ---
 
-## 1. Logs de Execução de Script de Criptografia (Simulado)
+## 1. Logs de Execução de Script de Criptografia
 
 ```
 [2025-09-12 14:22:18] INFO  - Script iniciado pelo usuário "aluno_lab".
@@ -17,7 +17,7 @@
 
 ---
 
-## 2. Logs de Captura de Eventos do Teclado (Simulação Inofensiva)
+## 2. Logs de Captura de Eventos do Teclado
 
 ```
 [2025-09-12 15:03:11] INFO  - Módulo de captura iniciado.
@@ -33,8 +33,6 @@
 
 ## 3. Logs de Envio Simulado por E-mail
 
-*(Somente demonstrativo — não envia nada)*
-
 ```
 [2025-09-12 15:10:52] INFO  - Iniciando rotina de envio.
 [2025-09-12 15:10:52] INFO  - Autenticando no servidor SMTP fictício.
@@ -45,7 +43,7 @@
 
 ---
 
-## 4. Logs de Firewall (Exemplo Educacional)
+## 4. Logs de Firewall
 
 ```
 [2025-09-12 16:44:01] ALERT - Tentativa de conexão bloqueada: origem 192.168.0.45 destino 192.168.0.10:445
@@ -66,7 +64,7 @@
 
 ---
 
-## 6. Logs de SIEM (Modelo Didático)
+## 6. Logs de SIEM
 
 ```
 2025-09-12T18:22:01Z EVENT: file_access
