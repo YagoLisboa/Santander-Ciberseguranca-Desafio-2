@@ -4,8 +4,6 @@ Relatório Técnico — Simulando um Malware de Captura de Dados Simples em Pyth
 
 ---
 
-## Elementos pré-textuais (ABNT)
-
 **Autor:** Yago Lisboa
 
 **Curso:** Cibersegurança
